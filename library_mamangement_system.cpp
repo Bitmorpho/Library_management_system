@@ -282,14 +282,15 @@ class MemberManager{
                     cout<<"membership status Inactive succefully !";
                     break;
                 
-                }
+    
+            }
                 else{
                     it++;}
                                 }
                                 if(found ==false){
                                     cout<<"member not found:( ";
                                 }
-                             }g
+                             }
 
 
     
